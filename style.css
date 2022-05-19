@@ -1,0 +1,36 @@
+header {
+    padding: 2px;
+    font-family: 'arial', sans-serif;
+    text-align: center;
+}
+
+.wellcome {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+#contato {
+    background-color: rgba(5,99,103, 0.85);
+    padding: 5%;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#item {
+    font-family: 'arial', sans-serif;
+    text-align: center;
+}
+
+footer {
+    background-color: #056367;
+    font-family: 'arial', sans-serif;
+}
+
+#opçoes {
+    background-color: aliceblue;
+}
+
+#opçoes2 {
+    background-color: aliceblue;
+}
